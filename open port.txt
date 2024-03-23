@@ -1,0 +1,26 @@
+scovered open port 554/tcp on 65.20.70.207
+Discovered open port 1723/tcp on 65.20.70.207
+Discovered open port 21/tcp on 65.20.70.207
+Discovered open port 443/tcp on 65.20.70.207
+Discovered open port 111/tcp on 65.20.70.207
+Discovered open port 80/tcp on 65.20.70.207
+Discovered open port 22/tcp on 65.20.70.207
+Discovered open port 2049/tcp on 65.20.70.207
+Discovered open port 9100/tcp on 65.20.70.207
+Discovered open port 31337/tcp on 65.20.70.207
+Completed SYN Stealth Scan at 19:07, 4.72s elapsed (1000 total ports)
+Nmap scan report for mydukaan.io (65.20.70.207)
+Host is up (0.024s latency).
+rDNS record for 65.20.70.207: 65.20.70.207.vultrusercontent.com
+Not shown: 990 filtered tcp ports (no-response)
+PORT      STATE SERVICE
+21/tcp    open  ftp
+22/tcp    open  ssh
+80/tcp    open  http
+111/tcp   open  rpcbind
+443/tcp   open  https
+554/tcp   open  rtsp
+1723/tcp  open  pptp
+2049/tcp  open  nfs
+9100/tcp  open  jetdirect
+31337/tcp open  Elite

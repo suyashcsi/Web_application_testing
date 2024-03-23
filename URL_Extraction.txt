@@ -1,0 +1,103 @@
+INFO] ------TARGET info------
+[*] TARGET: https://mydukaan.io/
+[*] Same target https://mydukaan.io/ was previously analyzed 1 time(s)
+[*] TARGET IP: 65.20.70.207
+[INFO] NO load balancer detected for mydukaan.io...
+[*] DNS servers: pdns07.domaincontrol.com.
+[*] TARGET server: nginx/1.25.3
+[*] CC: IN
+[*] Country: India
+[*] RegionCode: MH
+[*] RegionName: Maharashtra
+[*] City: Mumbai
+[*] ASN: AS20473
+[*] BGP_PREFIX: 65.20.64.0/19
+[*] ISP: AS-CHOOPA, US
+[INFO] SSL/HTTPS certificate detected
+[*] Issuer: issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+[*] Subject: subject=CN = mydukaan.io
+[INFO] Possible abuse mails are:
+[*] abuse@constant.com
+[*] abuse@mydukaan.io
+[INFO] NO PAC (Proxy Auto Configuration) file FOUND
+[ALERT] robots.txt file FOUND in http://mydukaan.io/robots.txt
+[INFO] Checking for HTTP status codes recursively from http://mydukaan.io/robots.txt
+[INFO] Status code Folders
+[INFO] Starting FUZZing in http://mydukaan.io/FUzZzZzZzZz...
+[INFO] Status code Folders
+[*] 200 http://mydukaan.io/index
+[*] 200 http://mydukaan.io/download
+[*] 200 http://mydukaan.io/news
+[*] 200 http://mydukaan.io/crack
+[*] 200 http://mydukaan.io/serial
+[*] 200 http://mydukaan.io/full
+[*] 200 http://mydukaan.io/12
+[ALERT] Look in the source code. It may contain passwords
+[INFO] Links found from https://mydukaan.io/ http://65.20.70.207/:
+[*] https://angel.co/company/dukaan-app/jobs
+[*] https://apps.apple.com/in/app/dukaan-create-online-dukan/id1560859298
+[*] https://help.mydukaan.io/
+[*] https://mydukaan.io/
+[*] https://mydukaan.io/about-us
+[*] https://mydukaan.io/awards
+[*] https://mydukaan.io/blog
+[*] https://mydukaan.io/blog/
+[*] https://mydukaan.io/branding
+[*] https://mydukaan.io/bugbounty/
+[*] https://mydukaan.io/delivery
+[*] https://mydukaan.io/dukaan-for-pc
+[*] https://mydukaan.io/enigma
+[*] https://mydukaan.io/enterprises
+[*] https://mydukaan.io/files/Mydukaan_banned_products.pdf
+[*] https://mydukaan.io/in/contact-us
+[*] https://mydukaan.io/in/faq
+[*] https://mydukaan.io/nirvana
+[*] https://mydukaan.io/nomana
+[*] https://mydukaan.io/oxfordpro
+[*] https://mydukaan.io/plugins
+[*] https://mydukaan.io/privacy
+[*] https://mydukaan.io/terms
+[*] https://mydukaan.io/themes
+[*] https://mydukaan.io/tinkr
+[*] https://mydukaan.io/tools
+[*] https://mydukaan.io/ursa
+[*] https://play.google.com/store/apps/details?id=com.dukaan.app
+[*] https://twitter.com/mydukaanapp
+[*] https://www.facebook.com/groups/dukaanapp
+[*] https://www.facebook.com/mydukaanapp/
+[*] https://www.googletagmanager.com/ns.html?id=GTM-MZWXC56
+[*] https://www.linkedin.com/company/dukaan/
+[*] https://www.youtube.com/@Dukaan
+cut: invalid field range
+Try 'cut --help' for more information.
+[INFO] Shodan detected the following opened ports on 65.20.70.207:
+[INFO] ------VirusTotal SECTION------
+[INFO] VirusTotal passive DNS only stores address records. The following domains resolved to the given IP address:
+[INFO] Latest URLs hosted in this IP address detected by at least one URL scanner or malicious URL dataset:
+[INFO] Latest files that are not detected by any antivirus solution and were downloaded by VirusTotal from the IP address provided:
+[INFO] ------Alexa Rank SECTION------
+[INFO] Percent of Visitors Rank in Country:
+[INFO] Percent of Search Traffic:
+[INFO] Percent of Unique Visits:
+[INFO] Total Sites Linking In:
+[INFO] Useful links related to mydukaan.io - 65.20.70.207:
+[*] https://www.virustotal.com/pt/ip-address/65.20.70.207/information/
+[*] https://www.hybrid-analysis.com/search?host=65.20.70.207
+[*] https://www.shodan.io/host/65.20.70.207
+[*] https://www.senderbase.org/lookup/?search_string=65.20.70.207
+[*] https://www.alienvault.com/open-threat-exchange/ip/65.20.70.207
+[*] http://pastebin.com/search?q=65.20.70.207
+[*] http://urlquery.net/search.php?q=65.20.70.207
+[*] http://www.alexa.com/siteinfo/mydukaan.io
+[*] http://www.google.com/safebrowsing/diagnostic?site=mydukaan.io
+[*] https://censys.io/ipv4/65.20.70.207
+[*] https://www.abuseipdb.com/check/65.20.70.207
+[*] https://urlscan.io/search/#65.20.70.207
+[*] https://github.com/search?q=65.20.70.207&type=Code
+[INFO] Useful links related to AS20473 - 65.20.64.0/19:
+[*] http://www.google.com/safebrowsing/diagnostic?site=AS:20473
+[*] https://www.senderbase.org/lookup/?search_string=65.20.64.0/19
+[*] http://bgp.he.net/AS20473
+[*] https://stat.ripe.net/AS20473
+[INFO] Date: 22/03/24 | Time: 02:35:41
+[INFO] Total time: 1 minute(s) and 5 second(s)
